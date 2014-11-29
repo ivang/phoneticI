@@ -48,3 +48,4 @@ phoneticI
 За създаването на `Bulgarian - PhoneticI` беше използвана програмата
 [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele).
 
+Методът на въвеждане на ударенията беше вдъхновен от [блог пост](http://eenk.com/postavyane-na-udareniya-na-kirilitsa-s-html) на Еленко.
