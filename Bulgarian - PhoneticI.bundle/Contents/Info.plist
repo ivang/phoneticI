@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.bulgarian- phonetici</string>
+	<key>CFBundleName</key>
+	<string>Bulgarian - PhoneticI</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>KLInfo_Bulgarian - PhoneticI</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.bulgarian- phonetici.bulgarian- phonetici</string>
+		<key>TISIntendedLanguage</key>
+		<string>bg-Cyrl-BG</string>
+	</dict>
+</dict>
+</plist>
