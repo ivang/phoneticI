@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Roman-Accent-А</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>A А̀</string>
+		<key>Strings</key>
+		<string>A А̀</string>
+	</dict>
+	<key>Roman-Accent-Е</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>Е Ѐ</string>
+		<key>Strings</key>
+		<string>Е Ѐ</string>
+	</dict>
+	<key>Roman-Accent-И</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>И Ѝ</string>
+		<key>Strings</key>
+		<string>И Ѝ</string>
+	</dict>
+	<key>Roman-Accent-О</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>О О̀</string>
+		<key>Strings</key>
+		<string>О О̀</string>
+	</dict>
+	<key>Roman-Accent-У</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>У У̀</string>
+		<key>Strings</key>
+		<string>У У̀</string>
+	</dict>
+	<key>Roman-Accent-Ъ</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>Ъ Ъ̀</string>
+		<key>Strings</key>
+		<string>Ъ Ъ̀</string>
+	</dict>
+	<key>Roman-Accent-Ю</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>Ю Ю̀</string>
+		<key>Strings</key>
+		<string>Ю Ю̀</string>
+	</dict>
+	<key>Roman-Accent-Я</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>Я Я̀</string>
+		<key>Strings</key>
+		<string>Я Я̀</string>
+	</dict>
+	<key>Roman-Accent-а</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>а а̀</string>
+		<key>Strings</key>
+		<string>а а̀</string>
+	</dict>
+	<key>Roman-Accent-е</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>е ѐ</string>
+		<key>Strings</key>
+		<string>е ѐ</string>
+	</dict>
+	<key>Roman-Accent-и</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>и ѝ</string>
+		<key>Strings</key>
+		<string>и ѝ</string>
+	</dict>
+	<key>Roman-Accent-о</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>о о̀</string>
+		<key>Strings</key>
+		<string>о о̀</string>
+	</dict>
+	<key>Roman-Accent-у</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>у у̀</string>
+		<key>Strings</key>
+		<string>у у̀</string>
+	</dict>
+	<key>Roman-Accent-ъ</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>ъ ъ̀</string>
+		<key>Strings</key>
+		<string>ъ ъ̀</string>
+	</dict>
+	<key>Roman-Accent-ю</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>ю ю̀</string>
+		<key>Strings</key>
+		<string>ю ю̀</string>
+	</dict>
+	<key>Roman-Accent-я</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>я я̀</string>
+		<key>Strings</key>
+		<string>я я̀</string>
+	</dict>
+	<key>UI-AlternateCurrencySign-1</key>
+	<string>$</string>
+	<key>UI-AlternateCurrencySign-2</key>
+	<string>£</string>
+	<key>UI-AlternateCurrencySign-3</key>
+	<string>¥</string>
+	<key>UI-LanguageIndicator</key>
+	<string>Български</string>
+	<key>UI-PrimaryCurrencySign</key>
+	<string>€</string>
+</dict>
+</plist>
