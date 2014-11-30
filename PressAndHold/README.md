@@ -10,11 +10,9 @@ hold" възможностите на Mac OS X 10.7+
 
 ## Инсталация и употреба
 
-0. Направете си резервно копие на `/System/Library/Input
-   Methods/PressAndHold.app/Contents/Resources/Keyboard-bg.plist`
+0. Направете си резервно копие на `/System/Library/Input Methods/PressAndHold.app/Contents/Resources/Keyboard-bg.plist`
 
-1. Копирайте файла `Keyboard-bg.plist` в `/System/Library/Input
-   Methods/PressAndHold.app/Contents/Resources/`
+1. Копирайте файла `Keyboard-bg.plist` от тази директория в `/System/Library/Input Methods/PressAndHold.app/Contents/Resources/`
 
 2. Евентуално може да се наложи да излезете от системата и да влезете
    отново или да я рестартирате.
